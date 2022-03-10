@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raptly
 - 👀 I’m interested in coding for fun.
-- 🌱 I’m currently learning JavaScript, iterm2 and Vim.
+- 🌱 I’m currently learning JavaScript, iterm2, Python and Vim.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me here.
 
